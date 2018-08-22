@@ -1,12 +1,12 @@
-#Mac2Vendor
+# Mac2Vendor
 Mac2Vendor is a simple project made to convert mac addresses to vendor information
 vendor source: https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
 not very ram-friendly...
 
-##Requirements
+## Requirements
 ・pickle
 
-##Usage
+## Usage
 
 ```
 >>> import mac2vendor
