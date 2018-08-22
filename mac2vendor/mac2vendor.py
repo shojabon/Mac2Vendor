@@ -24,7 +24,7 @@ class __mac_address:
     def get_vendor(self):
         return self.__vendor
 
-    def get_vendor_location(self):
+    def get_vendor_address(self):
         return self.__vendor_location
 
     def get_dictionary(self):

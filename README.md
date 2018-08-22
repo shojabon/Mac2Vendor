@@ -19,7 +19,7 @@ not very ram-friendly...
 >>> 000000
 >>> print(info.get_vendor())
 >>> XEROX CORPORATION
->>> print(info.get_vendor_location())
+>>> print(info.get_vendor_address())
 >>> M/S 105-50C WEBSTER NY US 14580
 >>> print(info.get_dictionary())
 >>> {'mac': '000000', 'organization_name': 'XEROX CORPORATION', 'organization_address': 'M/S 105-50C WEBSTER NY US 14580 '}
